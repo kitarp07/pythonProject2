@@ -4,4 +4,7 @@ c= a+b
 print ( 'The sum is ' ,    c)
 
 
-a= 10
+a = 10
+b = 20
+sum = a+b
+print(sum)
